@@ -25,15 +25,15 @@
   dependencies:
     xstream "11.11.0"
 
-"@barajs/formula@3.0.0-alpha.450":
-  version "3.0.0-alpha.450"
-  resolved "https://registry.npmjs.org/@barajs/formula/-/formula-3.0.0-alpha.450.tgz#ac57c8b39d96c1e3afe03a796766bcbc5a84ed2d"
-  integrity sha512-al0Nl7VAlW+mW8C5kfQFHvdsk6N6KTZXajCMVroAzcAg6UhBjtl2VePRdtP0BY/vWqdF3SiAi29POKLPvdVOVA==
-
 "@barajs/formula@^3.0.0-alpha.446":
   version "3.0.0-alpha.446"
   resolved "https://registry.npmjs.org/@barajs/formula/-/formula-3.0.0-alpha.446.tgz#d7a0c6e3ceaed27e436832cc48b9450c4b71e688"
   integrity sha512-u0wGwQGIvvAFBgrL/4hax11brO+u6I8hINuBhATc3pxDGVbrotqPIZexlzBDK740T/B4uBdbJmXWme9e1z/CwQ==
+
+"@barajs/formula@^3.0.0-alpha.450":
+  version "3.0.0-alpha.450"
+  resolved "https://registry.npmjs.org/@barajs/formula/-/formula-3.0.0-alpha.450.tgz#ac57c8b39d96c1e3afe03a796766bcbc5a84ed2d"
+  integrity sha512-al0Nl7VAlW+mW8C5kfQFHvdsk6N6KTZXajCMVroAzcAg6UhBjtl2VePRdtP0BY/vWqdF3SiAi29POKLPvdVOVA==
 
 "@barajs/fs@1.0.0":
   version "1.0.0"
