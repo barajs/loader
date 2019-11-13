@@ -1,6 +1,6 @@
 {
   "name": "@barajs/loader",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Bara file loader",
   "repository": {
     "type": "git",
