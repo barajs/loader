@@ -42,7 +42,7 @@
     "@types/js-yaml": "3.12.1",
     "prettier": "1.18.2",
     "semantic-release": "15.13.28",
-    "ts-loader": "6.2.1",
+    "ts-loader": "7.0.5",
     "ts-node-dev": "1.0.0-pre.43",
     "typescript": "3.6.4",
     "webpack": "4.41.2",
