@@ -28,10 +28,10 @@
     "@barajs/formula": "^3.0.0-alpha.450",
     "@barajs/fs": "1.0.0",
     "@types/graceful-fs": "4.1.3",
-    "@types/mkdirp": "0.5.2",
+    "@types/mkdirp": "1.0.2",
     "graceful-fs": "4.2.3",
     "js-yaml": "3.13.1",
-    "mkdirp": "0.5.1"
+    "mkdirp": "1.0.4"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.5",
